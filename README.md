@@ -12,6 +12,8 @@
 2️⃣ **Log in to an account**  
 3️⃣ **Edit or delete account**
 
+### 🧠 Mental Health Features (In progress)
+
 ## 🛠️ Technologies Used  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
