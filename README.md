@@ -22,4 +22,12 @@
 ```bash
 git clone https://github.com/Hugolelis/BrainAPI.git
 ````
+### 2️⃣ Install dependencies:
+```bash
+npm i
+````
+### 3️⃣ Start project: 
+```bash
+npm start
+````
 
