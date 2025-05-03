@@ -5,6 +5,8 @@
 ### Description  
 **Brain** is a platform designed to connect mental health professionals with individuals seeking care, support, and understanding. Built with a **RESTful** architecture, this API empowers users to find professional help, share experiences, and build a community focused on mental well-being. The backend is developed with **Node.js** and stores data in **MongoDB**.
 
+---
+
 ## 🚀 Features
 
 ### 👤 Account Features  
@@ -18,6 +20,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
 
 ## 📂 How to Run the Project
 
