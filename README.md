@@ -16,6 +16,8 @@
 
 ### 🧠 Mental Health Features (In progress)
 
+---
+
 ## 🛠️ Technologies Used  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
