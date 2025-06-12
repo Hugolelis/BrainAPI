@@ -29,7 +29,7 @@ await app.register(cors)
 
 await app.register(fastifyStatic, { root: publicPath, prefix: '/public/' })
 
-app.register(fastifyJwt, { secret: process.env.SECRET })
+app.register(fastifyJwt, { secret: process.env.SECRET, sign: { expiresIn: '7d' } })
 
 // routes
 import { authRoutes } from "./routes/authRoutes.js";

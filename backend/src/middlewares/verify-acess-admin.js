@@ -1,7 +1,12 @@
+import { getToken } from '../helpers/get-token.js'
+import { getUserByToken } from '../helpers/get-user-by-token.js'
+
 export const verifyAcessAdmin = async (req, reply) => {
     try {
         const token = getToken(req)
         const user = await getUserByToken(token, req, reply)
+
+        console.log(token, user)
 
         if(user && user.acesso === 'admin') {
             return

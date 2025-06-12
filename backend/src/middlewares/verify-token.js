@@ -4,7 +4,7 @@ export const verifyToken = async(req, reply) => {
     if(!req.headers.authorization) return reply.code(401).send({ status: 401, message: 'Acesso negado', error: true })
 
     const token = getToken(req)
-    if(!token) return reply.code(401).send({ status: 401, message: '', error: true })
+    if(!token) return reply.code(401).send({ status: 401, message: 'Acesso negado', error: true })
 
     try {
         const verified = await req.jwtVerify()
